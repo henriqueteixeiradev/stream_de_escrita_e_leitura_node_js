@@ -1,0 +1,13 @@
+{
+  "name": "stream_de_escrita_e_leitura_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
